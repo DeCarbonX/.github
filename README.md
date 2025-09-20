@@ -6,7 +6,7 @@
 
 ## 📖 Giới thiệu
 
-DeCarbon là một nền tảng blockchain tiên tiến được thiết kế để token hóa tín chỉ carbon, biến đổi các khoản giảm phát thải đã được xác minh thành các token kỹ thuật số có thể được giao dịch và theo dõi một cách dễ dàng. Bằng cách tận dụng công nghệ IOTA Tangle và ngôn ngữ Move, nền tảng đảm bảo tính minh bạch, bảo mật và hiệu quả trong thị trường tín chỉ carbon với chi phí giao dịch bằng không.
+DeCarbon là một nền tảng blockchain tiên tiến được thiết kế để token hóa tín chỉ carbon, biến đổi các khoản giảm phát thải đã được xác minh thành các token kỹ thuật số có thể được giao dịch và theo dõi một cách dễ dàng. Bằng cách tận dụng công nghệ của blockchain và ngôn ngữ Move, nền tảng đảm bảo tính minh bạch, bảo mật và hiệu quả trong thị trường tín chỉ carbon với chi phí giao dịch thấp.
 
 ### 🎯 Tầm nhìn
 
